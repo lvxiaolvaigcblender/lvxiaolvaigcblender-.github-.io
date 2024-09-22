@@ -1,2 +1,2 @@
-# lvxiaolvaigcblender-.github-.io
+# lvxiaolvaigcblender.github.io
 个人博客
